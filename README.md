@@ -6,6 +6,7 @@ Identity is a Portfolio website. I made it using technologies like Html,Css,Java
 - cd identity
 - cp .env.example `.env`
 - open .env and update DB_DATABASE (database details)
+- i didn't create database table by migration .i create it manually.so iam providing database sql file import it on your DMS.
 - run : `composer install`
 - run : `php artisan key:generate`
 - run : `php artisan migrate:fresh --seed`
