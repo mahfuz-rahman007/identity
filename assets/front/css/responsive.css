@@ -1,0 +1,437 @@
+
+
+
+@media (max-width: 1199px) {
+    .myclient-area {
+        padding-top: 107px;
+    }
+    .portfolio-category li a {
+        display: inline-block;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .about-text {
+        padding: 10px 0;
+    }
+}
+
+
+@media  (max-width: 767px) {
+    .t-author h4 {
+        font-size: 15px;
+    }
+    #counterArea .counter_box {
+        margin-bottom: 30px;
+    }
+    #counterArea {
+        padding: 153px 0px 131px;
+    }
+    #eduandex {
+        padding: 92px 0px 99px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .header{
+        background: #fff;
+    }
+    .header .nav-item .nav-link.active::before, 
+    .header .nav-item .nav-link.active::after{
+        display: none;
+    }
+
+    #counterArea .counter_box h2,
+    #counterArea .counter_box span
+    {
+        font-size: 30px;
+    }
+    #counterArea .counter_box{
+        margin-bottom: 30px;
+    }
+    #counterArea {
+        position: relative;
+        padding: 120px 0px 85px;
+    }
+    .single-info {
+        margin-bottom: 30px;
+    }
+    .back-top-btn {
+        bottom: 90px!important;
+    }
+    .home-page-form{
+        margin-bottom: 30px;
+    }
+    .breadcrumb-area .title {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 5px;
+    }
+    .blog-details .blog-content .content .title {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .blog-aside{
+        margin-top: 60px;
+    }
+    .home-bg {
+        height: auto;
+        padding: 175px 0px 110px;
+    }
+    a.scroll{
+        display: none;
+    }
+    .home-bg .profile-img img {
+        margin-bottom: 25px;
+        width: 160px;
+        height: 160px;
+    }
+    .home-bg .name {
+        font-size: 34px;
+    }
+    .about-content .about-heading {
+        font-size: 30px;
+        line-height: normal;
+    }
+    .portfolio-category li a {
+        padding: 5px 20px;
+    }
+    .portfolio-details .info{
+        margin-top: 30px;
+    }
+    .aside-contact-form .contact-form{
+        margin-bottom: 0px!important;
+    }
+    
+    .portfolio-details {
+        padding: 100px 0px 120px;
+    }
+
+}
+
+@media  (min-width: 768px) and (max-width: 991px) {
+ 
+     #ca-navbar{
+        background: #fff;
+        padding: 10px 0px 10px;
+    }
+    .header .nav-item .nav-link {
+        color: #242424;
+    }
+    
+    .header .nav-item .nav-link.smoth-scroll.active, 
+    .header .nav-item .nav-link:hover{
+        color: #ff5252;
+    }
+    .header .nav-item .nav-link {
+        padding: 5px 0px 5px;
+    }
+    .style.header .nav-item .nav-link.smoth-scroll.active::after,
+    .style.header .nav-item .nav-link:hover::after {
+       display: none;
+    } 
+
+    .main-menu ul.navbar-nav li a {
+	padding: 30px 10px;
+}
+    .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li a {
+	padding: 25px 10px;
+}
+    .welcome-area .home-arrow {
+        bottom: -220px;
+    }
+    .welcome-text h1{
+        font-size: 65px;
+    }
+    .typed-cursor, .element {
+	   font-size: 22px;
+    }
+    
+    .single-stat {
+        margin-bottom: 60px;
+    }
+     .contact-form {
+        margin-bottom: 30px;
+    }
+
+    .hover-content h4{
+        font-size: 16px;
+    }
+    .hover-content a {
+        font-size: 16px;
+        height: 40px;
+        line-height: 44px;
+        width: 40px;
+    }
+    .inner {
+        padding: 15px;
+    }
+
+}
+
+
+@media (max-width: 767px) {
+    .author-image {
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .author-image img{
+        display: inline-block;
+    }
+    .portfolio-details .content .title{
+        font-size: 24px;
+    }
+    .blog-details .blog-content .content .title{
+        font-size: 24px;
+    }
+    .blog-aside .categori .title,
+    .blog-aside .recent-post-widget .title,
+    .blog-aside .archives .title
+    {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 12px;
+    }
+    
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .section-title h2 {
+        font-size: 32px;
+    }
+    .quotes-content h3 {
+        line-height: 1.2;
+        font-size: 36px;
+    }
+
+    .welcome-text h1 {
+        font-size: 36px;
+    }
+    .typed-cursor, .element {
+	   font-size: 18px;
+    }
+    .welcome-area .home-arrow {
+        bottom: -90px;
+    }
+    .about-area .tab {
+        margin-top: 42px;
+    }
+    .about-area h3 {
+        font-size: 24px;
+    }
+    .modal-body h3 {
+	font-size: 18px;
+    }
+    .modal-body {
+	padding: 0;
+    }
+    .single-stat {
+        margin-bottom: 20px;
+        display: block;
+    }
+    .cta-area h2 {
+	font-size: 32px;
+    }
+    .contact-form {
+        margin-bottom: 30px;
+    }
+    .single-address{
+        margin-bottom: 30px;
+    }
+    .breadcroumb-area h1 {
+        font-size: 32px;
+    }
+    .breadcroumb {
+      font-size: 14px;
+    }
+
+    .single-post h2, .single-post-details h2 {
+        font-size: 20px;
+    }
+    .comment-metadata {
+        margin-top: 10px;
+    }
+    .row.replay-area {
+      margin-left: 40px;
+      margin-top: 20px;
+    }
+    .comment-form-wrap {
+      margin-bottom: 50px;
+    }
+    h3.comment-title {
+        font-size: 18px;
+    }
+    .footer-text P {
+        font-size: 14px;
+    }
+    #ca-navbar{
+        background: #fff;
+        padding: 10px 0px 10px;
+    }
+    .header .nav-item .nav-link {
+        color: #242424;
+    }
+    
+    .header .nav-item .nav-link.smoth-scroll.active, 
+    .header .nav-item .nav-link:hover{
+        color: #ff5252;
+    }
+    .header .nav-item .nav-link {
+        padding: 7px 15px 7px;
+    }
+    .style.header .nav-item .nav-link.smoth-scroll.active::after,
+    .style.header .nav-item .nav-link:hover::after {
+       display: none;
+    } 
+    h4.about-heading {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .about-area .nav-tabs {
+        margin-bottom: 37px;
+    }
+
+    .inner {
+        padding: 15px;
+    }
+
+    .single-stat.s3{
+        margin-bottom: 0px;
+    
+    }
+    .single-stat.s4{
+        margin-bottom: 0px;
+    
+    }
+
+    .wow {
+        visibility: visible !important;
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        -ms-animation: none !important;
+        animation: none !important;
+       }
+    
+}
+
+@media (max-width: 576px) {
+  
+    .home-bg .name {
+        font-size: 30px;
+    }
+   
+
+    .welcome-area .home-arrow {
+        bottom: -90px;
+    }
+    .about-area .tab {
+        margin-top: 42px;
+    }
+    .section-title {
+        margin-bottom: 52px;
+    }
+    .modal-body h3 {
+	font-size: 18px;
+    }
+    .modal-body {
+	padding: 0;
+    }
+    .single-stat {
+        margin-bottom: 20px;
+        display: block;
+    }
+ 
+    .contact-form {
+        margin-bottom: 30px;
+    }
+    .single-address{
+        margin-bottom: 30px;
+    }
+    .breadcroumb-area h1 {
+        font-size: 32px;
+    }
+    .breadcroumb {
+      font-size: 14px;
+    }
+  
+    .single-post h2, .single-post-details h2 {
+        font-size: 20px;
+    }
+    .comment-metadata {
+        margin-top: 10px;
+    }
+    .row.replay-area {
+      margin-left: 40px;
+      margin-top: 20px;
+    }
+    .comment-form-wrap {
+      margin-bottom: 50px;
+    }
+    h3.comment-title {
+        font-size: 18px;
+    }
+    .footer-text P {
+        font-size: 14px;
+    }
+#ca-navbar{
+    background: #fff;
+    padding: 10px 0px 10px;
+}
+.header .nav-item .nav-link {
+    color: #242424;
+}
+
+.header .nav-item .nav-link.smoth-scroll.active, 
+.header .nav-item .nav-link:hover{
+    color: #ff5252;
+}
+.header .nav-item .nav-link {
+    padding: 7px 15px 7px;
+}
+.style.header .nav-item .nav-link.smoth-scroll.active::after,
+.style.header .nav-item .nav-link:hover::after {
+   display: none;
+} 
+
+.about-area .nav-tabs {
+    margin-bottom: 37px;
+}
+.inner {
+    padding: 15px;
+}
+.single-stat.s3{
+    margin-bottom: 0px;
+
+}
+.single-stat.s4{
+    margin-bottom: 0px;
+
+}
+
+.section-title h2 {
+    font-size: 28px;
+}
+.blogs .blog-box .blog-details .blog-title {
+    font-size: 18px;
+    line-height: 28px;
+}
+.blog-details .blog-content .content .title {
+    font-size: 22px;
+    line-height: 32px;
+}
+.blog-details .blog-content .content {
+    padding: 22px 15px 30px;
+}
+}
+@media (max-width: 360px) {
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .breadcrumb-area .title {
+        font-size: 26px;
+        line-height: 36px;
+    }
+}
